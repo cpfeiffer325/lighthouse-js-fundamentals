@@ -8,4 +8,4 @@ if (temperature < 0) {
   console.log("Short sleeves are fine for going outside!");
 }
 
-console.log("Now you are ready to enjoy the outdoors!");
+console.log("Now you are ready to enjoy the outdoors in the summer by the beach!");
